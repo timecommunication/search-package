@@ -118,19 +118,3 @@ if __name__ == '__main__':
     for i in t.temp_list:
         print(i.value)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
